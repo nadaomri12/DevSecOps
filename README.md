@@ -10,4 +10,9 @@ Automated Application Deployment with Jenkins
 - **Adoption of Infrastructure as Code (IaC)** with Terraform  
 - **Establishment of an IT automation platform** with Ansible  
 - **Deployment of the application** on an Azure virtual machine
- ## Project Architecture
+## Project Architecture
+![Project Architecture](architecture.png)
+
+## CI/CD Pipeline
+
+![Pipeline Architecture](pipiline.png)
